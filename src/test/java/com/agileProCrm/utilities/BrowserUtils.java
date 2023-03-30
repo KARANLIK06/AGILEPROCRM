@@ -1,4 +1,4 @@
-package com.cydeo.utilities;
+package com.agileProCrm.utilities;
 
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
