@@ -1,10 +1,10 @@
-package com.cydeo.step_definitions;
+package com.agileProCrm.step_definitions;
 
-import com.cydeo.pages.AgileProCrmLoginPage;
-import com.cydeo.pages.DrivePage;
-import com.cydeo.utilities.BrowserUtils;
-import com.cydeo.utilities.ConfigurationReader;
-import com.cydeo.utilities.Driver;
+import com.agileProCrm.pages.AgileProCrmLoginPage;
+import com.agileProCrm.pages.DrivePage;
+import com.agileProCrm.utilities.BrowserUtils;
+import com.agileProCrm.utilities.ConfigurationReader;
+import com.agileProCrm.utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
