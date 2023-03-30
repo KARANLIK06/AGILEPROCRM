@@ -1,6 +1,6 @@
-package com.cydeo.pages;
+package com.agileProCrm.pages;
 
-import com.cydeo.utilities.Driver;
+import com.agileProCrm.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
