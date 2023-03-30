@@ -1,4 +1,4 @@
-package com.cydeo.runners;
+package com.agileProCrm.runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -14,9 +14,9 @@ import org.junit.runner.RunWith;
                 "me.jvt.cucumber.report.PrettyReports:target/cucumber"
         },
         features = "src/test/resources/features",
-        glue = "com/cydeo/step_definitions",
+        glue = "com/agileProCrm/step_definitions",
         dryRun = false,
-        tags = "",
+        tags = "@AGL-406",
         publish = true
 )
 public class CukesRunner {
