@@ -1,11 +1,11 @@
-package com.cydeo.step_definitions;
+package com.agileProCrm.step_definitions;
 
 /*
 In the class we will be able to pass pre- & post- conditions to each
 scenario and each step
  */
 
-import com.cydeo.utilities.Driver;
+import com.agileProCrm.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
 import org.openqa.selenium.OutputType;
